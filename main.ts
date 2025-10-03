@@ -2,7 +2,7 @@
  *
  * Created by: XXX
  * Created on: Sep 2020
- * This program ...
+ * This program changes RGB LED colour
 */
 
 basic.clearScreen()
