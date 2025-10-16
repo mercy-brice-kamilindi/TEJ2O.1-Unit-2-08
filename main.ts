@@ -1,10 +1,11 @@
-  /* Copyright (c) 2020 MTHS All rights reserved
+/* Copyright (c) 2020 MTHS All rights reserved
  *
- * Created by:Mercy
- * Created on:oct 2025
- * This program changes RGB LED colour
+ * Created by: Mercy
+ * Created on: Oct 2025
+ * This program changes RGB LED colour.
 */
 
+// clean
 basic.clearScreen()
 basic.showIcon(IconNames.Happy)
 
