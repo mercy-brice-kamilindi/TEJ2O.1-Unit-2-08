@@ -1,7 +1,7 @@
-/* Copyright (c) 2020 MTHS All rights reserved
+  /* Copyright (c) 2020 MTHS All rights reserved
  *
- * Created by: XXX
- * Created on: Sep 2020
+ * Created by:Mercy
+ * Created on:oct 2025
  * This program changes RGB LED colour
 */
 
@@ -46,7 +46,7 @@ input.onButtonPressed(Button.A, function() {
     pins.digitalWritePin(DigitalPin.P15, 1)
     basic.pause(1000)
 
-    // tuen off
+    // turn off
     pins.digitalWritePin(DigitalPin.P13, 0)
     pins.digitalWritePin(DigitalPin.P14, 0)
     pins.digitalWritePin(DigitalPin.P15, 0)
